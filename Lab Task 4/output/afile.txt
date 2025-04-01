@@ -1,0 +1,2 @@
+cd 'c:\C++PG\LAB_TASKS\Lab Task 4\output'
+&
